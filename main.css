@@ -1,0 +1,63 @@
+/**** GENERALS ****/
+body {
+			color:blue;
+}
+
+img {
+            float: right;
+}
+
+.nav {
+    background-color: lightgray;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.serif{
+    font-family: "Times New Roman", Times, serif;
+}
+
+/**** HEADINGS ****/
+h1 {
+    color: green;
+    font-style: normal;
+}
+
+h2 {
+    color: green;
+    font-style: normal;
+}
+
+h3 {
+    color: green;
+    font-style: normal;
+}
+
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
